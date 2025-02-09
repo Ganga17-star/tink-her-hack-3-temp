@@ -8,34 +8,34 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
-# [Project Name] 🎯
+# [YouMatter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Sntax]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Ganga] - [SCMS]
+- Member 2: [Ann Mary] - [SCMS]
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://neon-tiramisu-db3261.netlify.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+The website is designed to provide support and resources for individuals facing bullying in various environments like schools, workplaces, and online spaces
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+bullying
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+The overall goal is to provide a safe space for individuals to seek help, gain awareness, and take action against bullying in a supportive environment.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- 
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -101,8 +101,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Ganga]: ideas and coding
+- [Ann Mary]:  ideas and coding
 - [Name 3]: [Specific contributions]
 
 ---
