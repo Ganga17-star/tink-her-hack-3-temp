@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 
 ## Basic Details
-### Team Name: [Sntax]
+### Team Name: [Syntax]
 
 
 ### Team Members
