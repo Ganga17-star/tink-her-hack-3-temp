@@ -103,7 +103,7 @@ For Hardware:
 ## Team Contributions
 - [Ganga]: ideas and coding
 - [Ann Mary]:  ideas and coding
-- [Name 3]: [Specific contributions]
+-
 
 ---
 Made with ❤️ at TinkerHub
